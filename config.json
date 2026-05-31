@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservender",
+        "uuid": 6100432,
+        "checksum": "3hmvr5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
